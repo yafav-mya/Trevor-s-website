@@ -1,2 +1,2 @@
 # Trevor-s-website
-a website thats all about trevor
+a website that's all about trevor
